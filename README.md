@@ -37,6 +37,7 @@ Use Prettier to format code. This starter includes scripts to both format code a
 
 - **Format Code**  
   Automatically format all files in the project:
+
   ```bash
   npm run format
   ```
@@ -77,6 +78,7 @@ Testing is handled with [Vitest](https://vitest.dev/), a fast and lightweight te
 
 - **Run All Tests Once**  
   Run the tests a single time for CI purposes:
+
   ```bash
   npm run test
   ```
